@@ -35,7 +35,7 @@ class EtchASketch{
 
 	reloadGrid(){
 		board.innerHTML = '';
-		this.initialBoard(etchAsketch.board)
+		this.initialBoard()
 	}
 
 }
